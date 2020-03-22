@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/ub/Arduino/libraries/Dynamixel2Arduino/src",
+                "/home/ub/.arduino15/packages/OpenCM904/tools/**",
+                "/home/ub/.arduino15/packages/OpenCM904/hardware/OpenCM904/1.4.2/**"
+            ],
+            "forcedInclude": [
+                "/home/ub/.arduino15/packages/OpenCM904/hardware/OpenCM904/1.4.2/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
