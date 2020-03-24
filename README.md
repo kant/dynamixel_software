@@ -9,5 +9,5 @@ Connect the board to the computer via an USB port and open the main.ino file in 
 Click the upload button and a confirmation should note the success.
 
 # Hardware and Assembly Instructions
-[Thingiverse](https://coresponse.github.io/blog/markdowninstruction/concept/2020/03/24/concept_cable_winch_v0.html)
-[Instructions](https://coresponse.github.io/blog/markdowninstruction/concept/2020/03/24/concept_cable_winch_v0.html)
+- [Thingiverse](https://www.thingiverse.com/thing:4236312)
+- [Instructions](https://coresponse.github.io/blog/markdowninstruction/concept/2020/03/24/concept_cable_winch_v0.html)
