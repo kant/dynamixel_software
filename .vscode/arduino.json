@@ -2,5 +2,5 @@
     "board": "OpenCM904:OpenCM904:OpenCM904",
     "configuration": "upload_method=UploadMethod",
     "port": "/dev/ttyACM0",
-    "sketch": "demo.ino"
+    "sketch": "main.ino"
 }
